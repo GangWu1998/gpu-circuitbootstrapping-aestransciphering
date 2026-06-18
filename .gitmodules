@@ -1,0 +1,4 @@
+[submodule "thirdparty/openfhe"]
+	path = thirdparty/openfhe
+	url = https://github.com/GangWu1998/baihuan-circuit-bootstrapping.git
+	branch = codex/aes-transcipher-openfhe-patches

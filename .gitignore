@@ -1,0 +1,10 @@
+build*/
+*.log
+*.csv
+*.json
+*.out
+*.prof
+*.tmp
+.cache/
+.vscode/
+thirdparty/nvidia-mathdx/
